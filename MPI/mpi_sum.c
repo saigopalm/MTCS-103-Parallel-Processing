@@ -1,3 +1,8 @@
+/*
+* MPI program to sum 100 elements.
+* Author: Mantha Sai Gopal
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
